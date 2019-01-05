@@ -1,0 +1,12 @@
+{
+  "javascript": {
+    "app": "app.js"
+  },
+  "styles": {},
+  "assets": {
+    "./src/assets/img/hat.jpg": "a80196c0daaadce1c8ef8446cc8212d5.jpg"
+  },
+  "webpack": {
+    "version": "4.29.6"
+  }
+}
